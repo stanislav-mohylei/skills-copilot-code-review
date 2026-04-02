@@ -218,6 +218,14 @@ section h3 {
   overflow: hidden;
 }
 
+.announcement-banner {
+  background-color: #4caf50;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-weight: bold;
+}
+
 .capacity-text {
   display: flex;
   justify-content: space-between;
